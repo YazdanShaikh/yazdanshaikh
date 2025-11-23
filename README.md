@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Yazdan Shaikh 👋
 
-<!--
-**YazdanShaikh/yazdanshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Mobile App Frontend | Project Manager  
+**React | Next.js | Laravel | React Native | Firebase | MySQL**
 
-Here are some ideas to get you started:
+I'm a Full Stack Developer & Project Manager with 3+ years of experience working with
+international clients and leading development teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+- Full Stack Web Development (React, Next.js, Laravel)
+- Mobile App Development (React Native)
+- API Development & Integration
+- Client Communication & Project Management
+- Full Cycle Development: UI → API → Deployment
+
+### Career Achievements
+- Delivered **150+ projects** for global clients  
+- Managed multiple teams and full product lifecycles  
+- Worked on large-scale platforms (Web + Mobile)  
+- 90% work in **private repositories** due to company NDA  
+
+### Tech Stack  
+**Frontend:** React, Next.js, JavaScript, HTML, CSS  
+**Backend:** Laravel (PHP), Firebase  
+**Mobile:** React Native  
+**Database:** MySQL, Firebase  
+**DevOps & Hosting:** VPS Management, Git, Deployment  
+**Tools:** Figma, Postman, GitHub, Play Console, Apple Console  
+
+---
+
+### Public Projects (More coming soon)
+- 🔹 React Portfolio Template  
+- 🔹 Laravel API Starter  
+- 🔹 Next.js Auth Boilerplate  
+- 🔹 React Native UI Kit  
+- 🔹 Firebase Auth Example  
+
+---
+
+### GitHub Activity  
+> Note: 90% of my work is in private repos for international clients (NDA based).  
+> Public activity is limited but I actively work on GitHub daily.
+
+---
+
+### Connect With Me  
+- Email: **yazdanshaikh11@gmail.com**  
+- LinkedIn: https://www.linkedin.com/in/yazdan-sheikh-9a17a5242/
